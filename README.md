@@ -5,3 +5,6 @@
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
+<div align=center>
+	<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat&logo=Java&logoColor=white" />
+<div>
