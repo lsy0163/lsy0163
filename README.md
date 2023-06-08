@@ -1,4 +1,4 @@
-<p align="center">🇰🇷</p>
+<h1>Stay hungry.<br>Stay foolish.</h1>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
