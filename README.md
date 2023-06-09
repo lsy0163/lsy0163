@@ -1,26 +1,18 @@
-<h1>Stay hungry.<br>Stay foolish.</h1>
+<h1 align="left">Hi there, 👋 </h1>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+- 💻 I'm studying computer science in university
+- 🌎 I'm from South Korea and live in Seoul
+- 📫 How to reach me : sangyeone0163@gmail.com
 
-<p align="center"> Techs that I've used at least once </p>
+<hr>
 
-<p align="center">
- 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=CSS3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-  <br>
+<h3 align="left">Languages and Tools</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<hr>
+
+<p align="left">
+<a href="https://instagram.com/22__sang.y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="22__sang.y" height="30" width="40" /></a>
+
 </p>
-
-<br>
-
-<h3 align="center"> 🧸 Me 🧸 </h3>
-<p align="center">
-  <a href="https://www.instagram.com/22__sang.y/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/22__sang.y/"/></a>&nbsp
-  <a href="mailto:sangyeone0163@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sangyeone0163@gmail.com"/></a>
-</p>
-<br>
-
-- ✅ Baekjoon OJ solved.ac status : <br><br>
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsy0163)](https://solved.ac/lsy0163)
