@@ -1,4 +1,8 @@
-<h1 align="left">Hi there, 👋 </h1>
+![reversal](<https://capsule-render.vercel.app/api?type=wave&reversal=true&color=1A0F14&height=105&section=footer&text=%20LeeSangYeon();&fontColor=f5ce00&fontSize=70&animation=twinkling>)
+
+Hi there, 👋
+
+<hr>
 
 - 💻 I'm studying computer science in university
 - 🌎 I'm from South Korea and live in Seoul
@@ -13,6 +17,6 @@
 <hr>
 
 <p align="left">
-<a href="https://instagram.com/22__sang.y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="22__sang.y" height="30" width="40" /></a>
+<a href="https://instagram.com/22_sang.y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="22__sang.y" height="30" width="40" /></a>
 
 </p>
